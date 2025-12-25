@@ -1,9 +1,4 @@
-																								 Hi 👋, I'm Vijay D N
-
-🎓 **Java Full Stack Fresher** | 💻 **Backend & Web Development Enthusiast**
-
----
-
+ Hi 👋, I'm Vijay D N
 ## 🚀 About Me
 
 I am an enthusiastic and motivated **Java Full Stack fresher** with hands-on experience in building web applications using **Core Java, Spring MVC, and Thymeleaf**. I enjoy solving problems, writing clean code, and learning new technologies to build efficient and user-focused applications.
