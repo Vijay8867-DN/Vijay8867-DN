@@ -1,4 +1,4 @@
-                                                         # Hi 👋, I'm Vijay D N
+  # Hi 👋, I'm Vijay D N
 
 ## 🚀 About Me
 
