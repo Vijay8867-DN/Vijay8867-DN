@@ -126,7 +126,6 @@ Government Engineering College, Hassan
 
 * 📧 Email: [vijaydn634@gmail.com](mailto:vijaydn634@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/vijay-dn-95a4a0277/
-* 💻 GitHub: https://github.com/Vijay8867-DN
 
 ---
 
