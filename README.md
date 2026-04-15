@@ -1,4 +1,5 @@
   # Hi 👋, I'm Vijay D N
+  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
 ## 🚀 About Me
 
